@@ -15,7 +15,10 @@ function App() {
   return (
     <>
 
-      
+      <header>
+        
+        <DaisyNav></DaisyNav>
+      </header>
       
 
     </>
