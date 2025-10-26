@@ -25,4 +25,6 @@ A simple and modern React project that displays **data cards** and **Recharts** 
 
 ---
 
-##  
+##  Live Link
+
+[https://react-card-and-rechart.netlify.app/](https://react-card-and-rechart.netlify.app/)
